@@ -36,7 +36,7 @@ const about = () => {
                     Materials
                     </h2>
                     <p className='text-lg leading-8'>
-                    Surrounded by beautiful landscapes, it is only right that our studio is stocked with only the finest local materials that haven't had to travel far to get to us. Our clay is as locally sourced as possible for every product. <br /> <br /> <br />
+                    Surrounded by beautiful landscapes, it is only right that our studio is stocked with only the finest local materials that haven{"'"}t had to travel far to get to us. Our clay is as locally sourced as possible for every product. <br /> <br /> <br />
 
 
 We ensure that the paint we use on our products is low-VOC and never washed into local waterways during production.
